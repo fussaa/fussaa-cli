@@ -12,8 +12,8 @@ import (
 // TODO: Update long description before v1.0.0
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "gmk",
-	Short: "Gomaki CLI helper",
+	Use:   "fss",
+	Short: "Fussaa CLI helper",
 	Long: `A longer description that spans multiple lines and likely contains
 examples and usage of using your application. For example:
 
