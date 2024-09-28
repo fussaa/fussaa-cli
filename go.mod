@@ -1,4 +1,4 @@
-module github.com/gomaki/gmk
+module github.com/fussaa/fussaa-cli
 
 go 1.21.3
 

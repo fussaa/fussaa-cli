@@ -8,7 +8,7 @@ import (
 	"strings"
 	"text/template"
 
-	tmpl "github.com/gomaki/gmk/pkg/templates"
+	tmpl "github.com/fussaa/fussaa-cli/pkg/templates"
 )
 
 // Struct to store field data

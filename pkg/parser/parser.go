@@ -7,7 +7,7 @@ import (
 	"go/token"
 	"path/filepath"
 
-	"github.com/gomaki/gmk/pkg/generator"
+	"github.com/fussaa/fussaa-cli/pkg/generator"
 )
 
 func ProcessFile(filenamePath string) {

@@ -4,7 +4,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/gomaki/gmk/pkg/parser"
+	"github.com/fussaa/fussaa-cli/pkg/parser"
 	"github.com/spf13/cobra"
 )
 
